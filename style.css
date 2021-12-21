@@ -1,8 +1,21 @@
 body{
-  background-color: #444444;
-    color: #dddddd;
+  background-color: #5F9EA0;
+    color: #FFEBCD;
     font-family: arial, helvetica, sans-serif;
   margin: 10% 20%;
+}
+
+h1{
+  text-align: center;
+  font-size: 36px;
+}
+
+img{
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 .exp-header{
