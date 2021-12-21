@@ -1,36 +1,111 @@
-body{
-  background-color: #5F9EA0;
-    color: #FFEBCD;
-    font-family: arial, helvetica, sans-serif;
-  margin: 10% 20%;
-}
-
-h1{
-  text-align: center;
-  font-size: 36px;
-}
-
-img{
-  display: block;
-  width: 300px;
-  margin-left: auto;
-  margin-right: auto;
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Meir Sedlis Resume</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="shortcut icon" type="image/jpg" href="https://www.clipartmax.com/png/full/158-1584743_twitter-lemon-emoji-twitter.png"/>
+</head>
+<body>
+  <div>
+    <h1>Meir David Sedlis</h1>
+   <img src="https://gcdn.pbrd.co/images/ugsx7teV0W3Q.jpg" alt="Man in a blue sweater smiling"> 
+    <p> Meir is a cheerful, dynamic and persistent problem solver interested in software development and bettering the human condition. He's a lifelong musician and bad joke enthusiast who often gets along best with animals and children. <p/>
+  </div>
   
-}
-
-.exp-header{
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
- 
-}
-.edu-header{
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
- 
-}
+  <div class="exp-header">
+    <h3> Professional Experience </h3>
+  </div>
+  
+ <div>
+   <h4>Deluxe Corporation | Shoreview, Minnesota</h4>
+   <h5>eCheck Support Specialist</h5>
+   <h6>February 2019 - September 2019</h6>
+   
+   <ul>
+     <li>Phone, email, and chat based technical support for emailable checks</li>
+     <li>Case logging in Salesforce</li>
+     <li>Support for product at all levels</li>
+     <li>SME for Microsoft Teams</li>
+     <li> Run reports and transmit secure customer information to financial institutions for daily account authorizations</li>
+   </ul>
+   
+   <h4>GeekHampton | Sag Harbor, New York</h4>
+   <h5>Technology Sales/Customer Service Specialist</h5>
+   <h6>May 2018 - October 2018</h6>
+   
+   <ul>
+     <li>Sales and support for Apple devices and peripherals</li>
+     <li>Intake for Repairs</li>
+     <li>Private lessons in Microsoft applications for Apple users</li>
+     <li>Remote desktop support for corporate clients</li>
+   </ul>
+   
+   <h4>Provisions Natural Foods | Sag Harbor, New York</h4>
+   <h5>Cashier/Cafe Clerk</h5>
+   <h6>October 2017 - August 2017</h6>
+   
+   <ul>
+     <li>Cheery and upbeat customer service</li>
+     <li>Food and beverage preparation and cleanup</li>
+     <li>Stock sales floor</li>
+   </ul>
+   
+   <h4>Hampton Country Day Camp | East Hampton, New York</h4>
+   <h5>Music Specialist</h5>
+   <h6>June 2017 - August 2017</h6>
+   
+   <ul>
+     <li>Plan and teach 30 minute music classes for children aged 2-11</li>
+   </ul>
+   
+   <h4>University of Minnesota Medical School, General Internal Medicine | Minneapolis, Minnesota</h4>
+   <h5>Executive Administrative and Office Specialist | Regional Training Site Coordinator, National TeamSTEPPS Implementation</h5>
+   <h6>August 2013 - April 2017</h6>
+   
+   <ul>
+     <li>Office and administrative support: complex schedulking including travel and financial reporting, project and course support</li>
+     <li>Hiring and onboarding</li>
+     <li>Process Improvement</li>
+     <li>Research support: survey creation and administration, meeting logistics, assist with all aspects of publishing, poster creation</li>
+     <li>Google Site administaion</li>
+     <li>Promotion and tenure</li>
+     <li>Oversee four annual Master Training sessions for TeamSTEPPS in coordination with national partners, travel for national meetings and conferences</li>
+   </ul>
+   
+   <h4>Maximum Management | New York, New York</h4>
+   <h5>Interim Administrative Coordinator</h5>
+   <h6>April 2013 - July 2013</h6>
+   
+   <ul>
+     <li>Screen and reformat resumes</li>
+     <li>Data reporting in Excel</li>
+     <li>Schedule multiple parties and events using Outlook</li>
+   </ul>
+   
+   <h4>ChangeCommunications | New York, New York</h4>
+   <h5>Communications Associate</h5>
+   <h6>March 2011 - Feburary 2013</h6>
+   
+   <ul>
+     <li>Fundraising Research and strategy</li>
+     <li>Draft grant applications</li>
+     <li>Compose and edit press releases, op-eds, website content, and other materials</li>
+     <li>Build media lists and disseminate press releases</li>
+     <li>Bill clients and track expenses</li>
+     <li>Administrative support</li>
+   </ul>
+  
+   
+     <div class="edu-header">
+    <h3> Education </h3>
+  </div>
+   
+   <div>
+     <h5>Degree</h5>
+     <h6>School, Date<h6>
+   </div>
+       
+</body>
+</html>
