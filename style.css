@@ -1,13 +1,14 @@
 body{
-  background-color: #5F9EA0;
+  background-color: #587e76;
     color: #FFEBCD;
-    font-family: arial, helvetica, sans-serif;
+    font-family: optima, veranda, sans-serif;
   margin: 10% 20%;
 }
 
 h1{
   text-align: center;
   font-size: 36px;
+  color: #FFEBCD;
 }
 
 h4{
@@ -30,16 +31,28 @@ img{
 .exp-header{
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  border: 1px solid #424b54;
+  border-radius: 20px;
+  background-color: rgba(0,0,0, 0.2)
 }
 .edu-header{
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1) 
+  border: 1px solid #424b54;
+  border-radius: 20px;
+  background-color: rgba(0,0,0, 0.2) 
+}
+
+a:link {
+  color: #ebcf9c;
+}
+
+a:visited {
+  color: #f7c17a;
+}
+
+a:hover {
+  color: #c5baaf;
 }
 
 .exp{
