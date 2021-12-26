@@ -28,6 +28,11 @@ img{
   margin-right: auto;
 }
 
+.bio{
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
 .exp-header{
   text-align: center;
   text-transform: uppercase;
